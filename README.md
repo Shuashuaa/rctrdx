@@ -52,3 +52,7 @@ export default tseslint.config({
   },
 })
 ```
+## React Router
+```
+npm i react-router
+```
