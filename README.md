@@ -56,3 +56,4 @@ export default tseslint.config({
 ```
 npm i react-router
 ```
+## TailwindCSS
