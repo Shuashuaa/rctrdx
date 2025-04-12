@@ -52,16 +52,3 @@ export default tseslint.config({
   },
 })
 ```
-## React Router
-```
-npm i react-router
-```
-## TailwindCSS v4
-> https://tailwindcss.com/docs/installation/using-vite
-```
-npm install tailwindcss @tailwindcss/vite
-```
-## Redux
-```
-
-```
